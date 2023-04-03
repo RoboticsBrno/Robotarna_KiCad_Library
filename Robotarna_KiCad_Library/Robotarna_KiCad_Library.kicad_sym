@@ -530,7 +530,7 @@
     (property "Value" "ESP32-C3-MINI-1" (id 1) (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "Robotarna_KiCad_Library:ESP32-C3-MINI-1" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf" (id 3) (at 0 7.62 0)
