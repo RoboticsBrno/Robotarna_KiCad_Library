@@ -237,7 +237,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Robotarna_KiCad_Library"
+    ],
     "pinned_symbol_libs": [
       "Robotarna_KiCad_Library"
     ]
