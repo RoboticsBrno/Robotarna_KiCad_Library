@@ -685,7 +685,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "LCSC" "C2935306" (id 4) (at 0 0 0)
-      (effects (font (size 1.27 1.27)))
+      (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "ESP32-C3-MINI-1_0_1"
       (rectangle (start -19.05 1.27) (end 19.05 -39.37)
