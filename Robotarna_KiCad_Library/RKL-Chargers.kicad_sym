@@ -250,7 +250,7 @@
     (property "Value" "MP2651" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Robotarna_KiCad_Library:MP2651" (at 0 10.16 0)
+    (property "Footprint" "RKL-SpecialModules:MP2651" (at 0 10.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2651GVT/document_id/9948/" (at 0 7.62 0)

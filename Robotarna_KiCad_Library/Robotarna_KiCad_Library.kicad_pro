@@ -242,7 +242,12 @@
       "RKL-ESP",
       "RKL-AuxiliarySymbols",
       "RKL-Inductors",
-      "RKL-Batteries"
+      "RKL-Batteries",
+      "RKL-SpecialModules",
+      "RKL-StandardPackages",
+      "RKL-Connectors",
+      "RLK-ElectorMechanicalComponents",
+      "RKL-LED"
     ],
     "pinned_symbol_libs": [
       "RKL-ESP",

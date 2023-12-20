@@ -67,7 +67,7 @@
     (property "Value" "NCP708" (at 0 1.27 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Robotarna_KiCad_Library:UDFN6-3x3mm" (at 0 11.43 0)
+    (property "Footprint" "RKL-StandardPackages:UDFN6-3x3mm" (at 0 11.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-NCP708MU330TAG_C183178.pdf" (at 0 8.89 0)

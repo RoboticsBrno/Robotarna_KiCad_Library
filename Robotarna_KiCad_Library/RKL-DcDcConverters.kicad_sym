@@ -6,7 +6,7 @@
     (property "Value" "TPS56C230" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Robotarna_KiCad_Library:TPS56C230" (at 0 12.7 0)
+    (property "Footprint" "RKL-SpecialModules:TPS56C230" (at 0 12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps56c230.pdf?ts=1691820891492&ref_url=https%253A%252F%252Fwww.google.com%252F" (at 0 7.62 0)

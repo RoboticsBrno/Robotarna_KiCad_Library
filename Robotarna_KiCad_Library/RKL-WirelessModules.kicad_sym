@@ -6,7 +6,7 @@
     (property "Value" "A9G" (at 0 1.27 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Robotarna_KiCad_Library:A9G" (at 1.27 2.54 0)
+    (property "Footprint" "RKL-SpecialModules:A9G" (at 1.27 2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 1.27 2.54 0)
