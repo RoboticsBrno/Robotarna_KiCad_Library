@@ -251,7 +251,8 @@
       "RKL-WirelessModules",
       "RKL-DcDcConverters",
       "RKL-BatteryManager",
-      "RKL-Uncategorized"
+      "RKL-Uncategorized",
+      "RKL-DiscreteLogic"
     ]
   },
   "meta": {
