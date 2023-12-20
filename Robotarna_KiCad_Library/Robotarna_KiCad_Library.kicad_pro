@@ -241,7 +241,17 @@
       "Robotarna_KiCad_Library"
     ],
     "pinned_symbol_libs": [
-      "Robotarna_KiCad_Library"
+      "RKL-ESP",
+      "RKL-MotorDrivers",
+      "RKL-BusCnverters",
+      "RKL-STM",
+      "RKL-Logos",
+      "RKL-Chargers",
+      "RKL-LDO",
+      "RKL-WirelessModules",
+      "RKL-DcDcConverters",
+      "RKL-BatteryManager",
+      "RKL-Uncategorized"
     ]
   },
   "meta": {
