@@ -47,11 +47,11 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
       (pin power_in line (at -12.7 0 0) (length 2.54) hide
-        (name "IN" (effects (font (size 1.27 1.27))))
+        (name "VCC" (effects (font (size 1.27 1.27))))
         (number "7" (effects (font (size 1.27 1.27))))
       )
       (pin power_in line (at -12.7 0 0) (length 2.54)
-        (name "IN" (effects (font (size 1.27 1.27))))
+        (name "VCC" (effects (font (size 1.27 1.27))))
         (number "8" (effects (font (size 1.27 1.27))))
       )
       (pin power_in line (at -3.81 -8.89 90) (length 2.54) hide
