@@ -32,4 +32,9 @@
   (pad "2" smd rect (at 0.915 -0.55) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 55c1c107-fc84-4ac8-a1be-a60e2425dad4))
   (pad "3" smd rect (at -0.915 -0.55) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bf5b63a3-996d-4921-8446-7cba64527484))
   (pad "4" smd rect (at -0.915 0.55) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp eb92f580-5819-4cba-9dbc-f23c46df03b1))
+  (model "C:/Users/TVavrinec/Documents/git/Robotarna_KiCad_Library/3D-models/WS2812B-2020.step"
+    (offset (xyz -1.1 1.1 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )
