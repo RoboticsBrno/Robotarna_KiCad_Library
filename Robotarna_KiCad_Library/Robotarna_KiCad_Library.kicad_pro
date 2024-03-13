@@ -392,7 +392,8 @@
       "RKL-StandardPackages",
       "RKL-Connectors",
       "RLK-ElectorMechanicalComponents",
-      "RKL-LED"
+      "RKL-LED",
+      "RKL-Audio"
     ],
     "pinned_symbol_libs": [
       "RKL-ESP",
