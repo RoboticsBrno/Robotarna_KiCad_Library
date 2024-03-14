@@ -19,4 +19,9 @@
     (thermal_bridge_angle 45) (tstamp 74386450-fcb9-4efe-8da2-577979b45110))
   (pad "2" smd roundrect (at 1.75 0 90) (size 1.9 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.125)
     (thermal_bridge_angle 45) (tstamp a194f95a-4e2e-46a5-9bf0-b61a20ed269a))
+  (model "C:/Users/TVavrinec/Documents/git/Robotarna_KiCad_Library/Robotarna_KiCad_Library/RKL_3Dmodels/Buzzer_4x4x2_(GSC4317YA-16R4000).step"
+    (offset (xyz -2 -2 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

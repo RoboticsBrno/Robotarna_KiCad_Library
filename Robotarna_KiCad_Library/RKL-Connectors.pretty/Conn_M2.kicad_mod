@@ -122,9 +122,9 @@
   (pad "75" smd rect (at 9.25 -4.18) (size 0.3 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 31a62cda-d1a9-4b7c-bf12-381a15c13872))
   (pad "S1" smd rect (at -10.35 -3.96) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2f33a8fb-45a7-473e-b344-bc66506f4e4b))
   (pad "S2" smd rect (at 10.35 -3.96) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0d2379b9-a491-44ed-9519-ee5e8a792d34))
-  (model "C:/Users/TVavrinec/Documents/git/Robotarna_KiCad_Library/3D-models/M.2 NGFF 8.5mm.STEP"
-    (offset (xyz 0 0 0))
+  (model "C:/Users/TVavrinec/Documents/git/Robotarna_KiCad_Library/Robotarna_KiCad_Library/RKL_3Dmodels/M.2 NGFF 8.5mm.STEP"
+    (offset (xyz 0 1 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 180))
+    (rotate (xyz -90 0 0))
   )
 )

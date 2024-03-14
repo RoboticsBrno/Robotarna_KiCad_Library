@@ -57,4 +57,9 @@
   (pad "S1" thru_hole oval (at -2.4 2.15 180) (size 1.5 1) (drill oval 0.95 0.6) (layers "*.Cu" "*.Mask") (tstamp 45f88b34-7a51-4261-b590-2e0edc30a1d0))
   (pad "S1" thru_hole oval (at 2.4 -2.15 180) (size 1.5 1) (drill oval 0.95 0.6) (layers "*.Cu" "*.Mask") (tstamp f06ecd18-087f-45ad-996b-6caed30b5037))
   (pad "S1" thru_hole oval (at 2.4 2.15 180) (size 1.5 1) (drill oval 0.95 0.6) (layers "*.Cu" "*.Mask") (tstamp da30e254-0cda-498f-b683-067a7795daed))
+  (model "C:/Users/TVavrinec/Documents/git/Robotarna_KiCad_Library/Robotarna_KiCad_Library/RKL_3Dmodels/radoby_cecko.step"
+    (offset (xyz -2.85 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

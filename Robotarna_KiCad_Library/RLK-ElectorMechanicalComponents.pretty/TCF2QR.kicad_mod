@@ -41,7 +41,7 @@
     (thermal_bridge_angle 45) (tstamp baad056d-3f54-4fdc-bdeb-b757d87c72a4))
   (pad "2" smd roundrect (at 0 -2.4) (size 0.8 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp 4b1fa573-66c7-436d-96ba-8088ee98819a))
-  (model "C:/Users/TVavrinec/Documents/git/Robotarna_KiCad_Library/3D-models/button-(TCF2QR).step"
+  (model "C:/Users/TVavrinec/Documents/git/Robotarna_KiCad_Library/Robotarna_KiCad_Library/RKL_3Dmodels/button-(TCF2QR).step"
     (offset (xyz -2.35 2.2 -1.9))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
