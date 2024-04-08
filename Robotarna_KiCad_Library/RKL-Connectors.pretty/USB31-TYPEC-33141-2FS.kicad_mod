@@ -65,4 +65,9 @@
   (pad "S1" thru_hole oval (at -4.5 7.11) (size 1 2) (drill oval 0.6 1.5) (layers "*.Cu" "*.Mask") (tstamp 71ebf88d-9021-4cd2-b446-c98773aa8a02))
   (pad "S1" thru_hole oval (at 4.5 0.31) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask") (tstamp 2b323297-74f7-4051-8ada-3c755ef07db4))
   (pad "S1" thru_hole oval (at 4.5 7.11) (size 1 2) (drill oval 0.6 1.5) (layers "*.Cu" "*.Mask") (tstamp 9071b4a5-a879-4778-922c-0b5ac248e902))
+  (model "C:/Users/TVavrinec/Documents/git/Robotarna_KiCad_Library/Robotarna_KiCad_Library/RKL_3Dmodels/USB-C-waterproof.step"
+    (offset (xyz -4.19 2.75 -1.6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
