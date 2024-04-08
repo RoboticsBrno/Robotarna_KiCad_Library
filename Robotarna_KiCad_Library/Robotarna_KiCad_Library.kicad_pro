@@ -409,7 +409,8 @@
       "RKL-DiscreteLogic",
       "RKL-Uncategorized",
       "RKL-SpecialThings",
-      "RKL-AuxiliarySymbols"
+      "RKL-AuxiliarySymbols",
+      "RKL-MOSFET"
     ]
   },
   "meta": {
