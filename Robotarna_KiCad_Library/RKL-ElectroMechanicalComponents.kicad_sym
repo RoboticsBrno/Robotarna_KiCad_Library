@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RLK-ElectorMechanicalComponents:RotaryEncoder_Bourns_Vertical_PEC11H-4xxxF-Sxxxx"
+		(property "Footprint" "RKL-ElectroMechanicalComponents:RotaryEncoder_Bourns_Vertical_PEC11H-4xxxF-Sxxxx"
 			(at 0 0 0)
 			(effects
 				(font
@@ -276,42 +276,6 @@
 		)
 		(symbol "RotaryEncoderGrounded_1_1"
 			(pin passive line
-				(at 6.35 -10.16 90)
-				(length 2.54)
-				(name "SH1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 8.89 -10.16 90)
-				(length 2.54)
-				(name "SH2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
 				(at 0 0 0)
 				(length 2.54)
 				(name "A"
@@ -394,6 +358,42 @@
 					)
 				)
 				(number "S2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 6.35 -10.16 90)
+				(length 2.54)
+				(name "SH1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "SH1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 8.89 -10.16 90)
+				(length 2.54)
+				(name "SH2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "SH2"
 					(effects
 						(font
 							(size 1.27 1.27)
