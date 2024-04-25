@@ -194,4 +194,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "6227de91-fd43-4028-b932-188ac1c9257b")
 	)
+	(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1210_3225Metric.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
