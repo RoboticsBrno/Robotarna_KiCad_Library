@@ -1,0 +1,23 @@
+(footprint "YZ157015035P-01" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -10 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 8f6a5619-2039-46dc-bc8c-4af8cb661528)
+  )
+  (fp_text value "YZ157015035P-01" (at 0 -8.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5d4a284c-23cf-46dc-b28f-f970be234801)
+  )
+  (fp_text user "LCSC: C5157308" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 8d9538b4-0bbe-4658-90fd-349d65bca01d)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -7 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp d150bcaa-b94e-4c1f-8efd-247e527f0afa)
+  )
+  (fp_circle (center 0 0) (end 1.25 0)
+    (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp a819a2cb-3b23-44b5-91a2-4904ce0aff1c))
+  (pad "1" thru_hole circle (at 0 0) (size 2.3 2.3) (drill 0.75) (layers "*.Cu" "*.Mask") (tstamp 20419198-36da-4632-921a-9a181d92389e))
+)
