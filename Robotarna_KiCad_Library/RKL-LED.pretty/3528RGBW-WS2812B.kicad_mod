@@ -1,7 +1,7 @@
 (footprint "3528RGBW-WS2812B"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at -0.1 -13 0)
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "a31f76a2-0a73-402e-a8ff-ccea2ed6737e")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -111,7 +101,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "b23679e0-df51-41c8-9679-b57be74a69de")
 	)
@@ -122,7 +112,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "7284eed1-397d-4e2b-9ecd-c72931ebda71")
 	)
@@ -141,7 +131,7 @@
 	(pad "1" smd roundrect
 		(at 1.35 0.75)
 		(size 0.9 0.75)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 0)
 		(uuid "23c3405d-daf3-429c-b8f3-7a918e1de45f")
@@ -149,7 +139,7 @@
 	(pad "2" smd roundrect
 		(at 1.35 -0.75)
 		(size 0.9 0.75)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 0)
 		(uuid "d918b84b-519b-4d0a-ab38-2fc146f03b3b")
@@ -157,7 +147,7 @@
 	(pad "3" smd roundrect
 		(at -1.35 -0.75)
 		(size 0.9 0.75)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 0)
 		(uuid "dcb5a62e-b34f-425e-9bcb-f749e522da06")
@@ -165,20 +155,21 @@
 	(pad "4" smd roundrect
 		(at -1.35 0.75)
 		(size 0.9 0.75)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 0)
 		(uuid "722e866c-13b7-4eb1-94d4-116f6f90548c")
 	)
-	(model "${RKL_DIR}/RKL_3Dmodels/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-Mini_PLCC4_3.5x3.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)
 		(scale
-			(xyz 0.6 0.6 1)
+			(xyz 1 0.9 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -0 -0)
 		)
 	)
 )
