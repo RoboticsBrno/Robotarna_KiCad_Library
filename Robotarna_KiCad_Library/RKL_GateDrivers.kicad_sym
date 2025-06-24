@@ -217,14 +217,14 @@
 			(pin passive line
 				(at 12.7 0 180)
 				(length 2.54)
-				(name "VB3"
+				(name "VB1"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "14"
+				(number "20"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -235,14 +235,14 @@
 			(pin passive line
 				(at 12.7 -2.54 180)
 				(length 2.54)
-				(name "HO3"
+				(name "HO1"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "13"
+				(number "19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -253,14 +253,14 @@
 			(pin passive line
 				(at 12.7 -5.08 180)
 				(length 2.54)
-				(name "VS3"
+				(name "VS1"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "12"
+				(number "18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -325,14 +325,14 @@
 			(pin passive line
 				(at 12.7 -20.32 180)
 				(length 2.54)
-				(name "VB1"
+				(name "VB3"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "20"
+				(number "14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -343,14 +343,14 @@
 			(pin passive line
 				(at 12.7 -22.86 180)
 				(length 2.54)
-				(name "HO1"
+				(name "HO3"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "19"
+				(number "13"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -361,14 +361,14 @@
 			(pin passive line
 				(at 12.7 -25.4 180)
 				(length 2.54)
-				(name "VS1"
+				(name "VS3"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "18"
+				(number "12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -379,14 +379,14 @@
 			(pin output line
 				(at 12.7 -30.48 180)
 				(length 2.54)
-				(name "LO3"
+				(name "LO1"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "9"
+				(number "11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -415,14 +415,14 @@
 			(pin output line
 				(at 12.7 -35.56 180)
 				(length 2.54)
-				(name "LO1"
+				(name "LO3"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "11"
+				(number "9"
 					(effects
 						(font
 							(size 1.27 1.27)
