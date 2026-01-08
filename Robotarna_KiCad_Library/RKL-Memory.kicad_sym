@@ -193,16 +193,16 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "MKDV1G"
+			(at 0 3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "Package_LGA:LGA-8_8x6mm_P1.27mm"
+			(at 0 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -210,8 +210,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 0 0 0)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2008251433_MK-MKDV1GCL-SE_C726725.pdf"
+			(at 0 15.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -228,8 +228,17 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C6152616"
+			(at 0 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(symbol "MKDV1G_1_0"
-			(pin unspecified line
+			(pin power_in line
 				(at -10.16 0 0)
 				(length 2.54)
 				(name "VDD"
@@ -247,7 +256,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -10.16 -5.08 0)
 				(length 2.54)
 				(name "DAT0"
@@ -265,7 +274,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -10.16 -7.62 0)
 				(length 2.54)
 				(name "DAT1"
@@ -283,7 +292,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -10.16 -10.16 0)
 				(length 2.54)
 				(name "DAT2"
@@ -301,7 +310,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -10.16 -12.7 0)
 				(length 2.54)
 				(name "DAT3"
@@ -319,26 +328,8 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin bidirectional line
 				(at -10.16 -15.24 0)
-				(length 2.54)
-				(name "CLK"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -10.16 -20.32 0)
 				(length 2.54)
 				(name "CMD"
 					(effects
@@ -355,8 +346,26 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at 2.54 -25.4 90)
+			(pin input line
+				(at -10.16 -17.78 0)
+				(length 2.54)
+				(name "CLK"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 -22.86 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -377,7 +386,7 @@
 		(symbol "MKDV1G_1_1"
 			(rectangle
 				(start -7.62 1.27)
-				(end 5.08 -22.86)
+				(end 5.08 -20.32)
 				(stroke
 					(width 0)
 					(type solid)

@@ -419,7 +419,12 @@
       "RKL-SpecialThings",
       "RKL-AuxiliarySymbols",
       "RKL-MOSFET",
-      "RKL-ElectroMechanicalComponents"
+      "RKL-ElectroMechanicalComponents",
+      "RKL-Connectors",
+      "RKL-GateDrivers",
+      "RKL-Memory",
+      "RKL-MEMS",
+      "RKL-Sensors"
     ]
   },
   "meta": {
